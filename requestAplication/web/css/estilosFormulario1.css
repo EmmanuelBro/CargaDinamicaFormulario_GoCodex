@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: whitesmoke;
+}
+
+
+.formulario1{
+    padding: 20px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    margin: 0px 25%;
+    border-radius: 25px;
+}
+
